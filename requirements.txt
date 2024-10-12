@@ -6,3 +6,4 @@ fredapi
 seaborn
 plotly
 numpy
+sklearn
