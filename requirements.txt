@@ -5,3 +5,4 @@ matplotlib
 fredapi
 seaborn
 plotly
+numpy
